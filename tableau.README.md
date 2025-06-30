@@ -6,4 +6,4 @@ This Tableau dashboard explores the average body mass of Gentoo, Chinstrap, and 
 
 📊 **Live Dashboard**: [View on Tableau Public][(https://public.tableau.com/app/profile/yourname/viz/PalmerPenguins)](https://public.tableau.com/app/profile/lauren.schwartzenburg/viz/PalmerPenguinsAntarctica/DashboardMain?publish=yes)
 
-![Dashboard Screenshot](Palmer_Penguins_Tableau_Screenshot.png)
+![Dashboard Screenshot](PalmerPenguins_Tableau_Screenshot.png)

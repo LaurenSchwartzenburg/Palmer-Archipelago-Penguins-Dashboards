@@ -14,5 +14,10 @@ Source: `penguins.Iter.csv` — a cleaned dataset representing species and islan
 ## Live Dashboards
 - [View Tableau Dashboard](https://public.tableau.com/app/profile/lauren.schwartzenburg/viz/PalmerPenguinsAntarctica/DashboardMain?publish=yes)
 
+
+![Tableau Dashboard Preview](PalmerPenguins_Tableau_Screenshot.png)
+
+
 ## License
 MIT License – free to use with attribution.
+

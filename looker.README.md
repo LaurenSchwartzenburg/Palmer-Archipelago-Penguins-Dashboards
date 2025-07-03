@@ -4,4 +4,4 @@
 
 This Looker dashboard explores the average body mass of Gentoo, Chinstrap, and Adélie penguins across three islands in the Palmer Archipelago.
 
-[Dashboard Screenshot](Palmer_Penguins_Looker.png)
+![Dashboard Screenshot](Palmer_Penguins_Looker.png)
